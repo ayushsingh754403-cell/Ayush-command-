@@ -1,0 +1,6 @@
+{
+  "name": "Ayush Command App",
+  "description": "An AI-powered Termux command generator providing accurate, line-by-line commands based on natural language inputs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
